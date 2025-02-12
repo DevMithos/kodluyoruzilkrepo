@@ -1,4 +1,4 @@
-![Proje Resmi](./download.webp)
+![Proje Resmi](/images/download.webp)
 
 # Kodluyoruz Ilk Repo
 
