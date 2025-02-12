@@ -1,4 +1,4 @@
-![Proje Resmi](https://ibb.co/wNSQ10rB)
+![Proje Resmi](./download.webp)
 
 # Kodluyoruz Ilk Repo
 
