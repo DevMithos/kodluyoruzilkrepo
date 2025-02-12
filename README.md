@@ -1,8 +1,8 @@
+![Proje Resmi](https://ibb.co/wNSQ10rB)
+
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
-![Proje Resmi](https://i.hizliresim.com/tqm68c5.png)
 
 ## Installation
 
